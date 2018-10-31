@@ -6,7 +6,9 @@
 	}
 body {overflow-x:hidden;
 }
-	
+	.col-xs-6 {
+    width: 90%;
+}
 
 html,
 body {
